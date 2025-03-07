@@ -1,5 +1,5 @@
 # pokemon-latent-visualizer
-A Variational Autoencoder (VAE) for generating Pokémon images, with PCA-based visualization of the latent space for clustering and analysis.
+PCA-based visualization of the latent space of the CLIP image encoder for clustering and analysis.
 
 # dataset
 ```bash
